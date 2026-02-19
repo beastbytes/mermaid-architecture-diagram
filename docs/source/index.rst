@@ -7,10 +7,12 @@ Mermaid Architecture Diagram
 Mermaid Architecture Diagram allows creation of `Mermaid JS Architecture Diagrams <https://mermaid.js.org/syntax/architecture.html>`__ in PHP.
 
 .. toctree::
-    :maxdepth: 2
-    :caption: Contents
+   :maxdepth: 2
+   :caption: Contents
 
-    api
+   installation
+   usage
+   api
 
 .. seealso::
 
